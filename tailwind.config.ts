@@ -52,6 +52,30 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				hackathon: {
+					50: '#f0f4ff',
+					100: '#dbe6fe',
+					200: '#bcd1fd',
+					300: '#8fb3fc',
+					400: '#598af8',
+					500: '#2563eb', /* Primary blue */
+					600: '#1d4ed8',
+					700: '#1e40af',
+					800: '#1e3a8a',
+					900: '#1e3a8a',
+				},
+				tech: {
+					50: '#f5f3ff',
+					100: '#ede9fe',
+					200: '#ddd6fe',
+					300: '#c4b5fd',
+					400: '#a78bfa',
+					500: '#8b5cf6', /* Primary purple */
+					600: '#7c3aed',
+					700: '#6d28d9',
+					800: '#5b21b6',
+					900: '#4c1d95',
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
